@@ -93,3 +93,6 @@ ffmpeg -y -i "/path/to/output.mp4" -i "/path/to/input.mov" \
 - Visual style inspiration: the YouTube tutorial linked above.
 - Emotional damage: Adobe export pipeline.
 - Recovery plan: Python + OpenCV + stubbornness.
+
+## Was I satisfied with the result?
+Not really. I think the comic filters in Final Cut Pro were a lot better in the end and exported a lot faster. I should have just used them from the start.
