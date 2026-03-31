@@ -69,7 +69,7 @@ python3 main_fast.py \
   Uses faster approximations for some effects.  
   Looks close enough for stage background visuals unless you're grading for Cannes.
 
-## Tuning guide (because of course you need one)
+## Tuning guide
 - Faster preview: `--scale 0.5 --fast-mode`
 - Balanced: `--scale 0.6 --fast-mode --workers 4`
 - Better quality: `--scale 0.85` (optionally without `--fast-mode`)
